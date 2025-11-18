@@ -1,4 +1,4 @@
-# **Release Note – DataInsight 1.8**
+# **Release Note - DataInsight 1.8**
 **Release Date:** November 2025  
 
 ---
