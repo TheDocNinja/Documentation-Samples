@@ -3,32 +3,6 @@
 
 ---
 
-## About This Document
-This End User Guide is created as a **sample documentation artifact** to demonstrate professional technical writing skills. The product described is **fictional** and intended solely for portfolio purposes. The workflows reflect common industry practices used in maintenance and facilities management systems.
-
-This guide follows **Microsoft Writing Style Guide (MSTP)** principles, focusing on clarity, consistency, and user-centered instructions.
-
----
-
-## Audience
-This guide is intended for:
-- End users submitting maintenance requests
-- Technicians performing maintenance tasks
-- Maintenance managers overseeing work orders
-
-No prior technical knowledge is required.
-
----
-
-## Document Conventions
-| Convention | Description |
-|---------|------------|
-| **Bold** | UI elements such as buttons and fields |
-| *Italic* | New or emphasized terms |
-| > Note | Additional helpful information |
-
----
-
 ## Overview of the System
 The Generic Maintenance Management System (CMMS) helps organizations:
 - Track maintenance requests
@@ -60,8 +34,6 @@ The system centralizes maintenance activities and improves operational efficienc
 
 ## Logging In to the System
 
-![Login screen showing username and password fields](screenshots/login-screen.png)
-
 *Figure 1: CMMS login page*
 
 1. Open the CMMS application.
@@ -73,8 +45,6 @@ The system centralizes maintenance activities and improves operational efficienc
 ---
 
 ## Creating a Maintenance Request
-
-![Create maintenance request form with asset, description, and priority fields](screenshots/create-maintenance-request.png)
 
 *Figure 2: Create Maintenance Request screen*
 
@@ -93,8 +63,6 @@ After submission, the system generates a request ID for tracking.
 ---
 
 ## Viewing Request Status
-
-![My Requests page showing request list and status column](screenshots/my-requests-status.png)
 
 *Figure 3: Request status tracking*
 
@@ -127,8 +95,6 @@ Each status update is logged for audit and tracking purposes.
 
 ## Performing Maintenance Tasks (Technician)
 
-![Work order details page with task instructions and work notes](screenshots/work-order-details.png)
-
 *Figure 4: Technician work order view*
 
 1. Open the assigned work order.
@@ -141,8 +107,6 @@ Each status update is logged for audit and tracking purposes.
 ---
 
 ## Scheduling Preventive Maintenance
-
-![Preventive maintenance schedule configuration screen](screenshots/preventive-maintenance-schedule.png)
 
 *Figure 5: Preventive maintenance scheduling*
 
@@ -158,8 +122,6 @@ The system automatically generates work orders based on the schedule.
 ---
 
 ## Closing a Work Order
-
-![Completed work order review and close action](screenshots/close-work-order.png)
 
 *Figure 6: Closing a work order*
 
