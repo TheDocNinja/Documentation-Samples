@@ -20,13 +20,5 @@ The documents reflect real-world product documentation used in software and IT e
 
 ---
 
-## ✍️ Documentation Skills Demonstrated
-- User-centric technical writing  
-- Clear information architecture  
-- Consistent terminology and tone  
-- Versioned and maintainable documentation  
-
----
-
 ## 🎯 Purpose
 This repository serves as a **technical writing portfolio** for review by hiring teams and as a reference for structured product documentation.
