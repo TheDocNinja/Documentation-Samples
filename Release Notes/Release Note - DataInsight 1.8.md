@@ -6,7 +6,7 @@
 ## **Release Summary**
 The **DataInsight 1.8** release delivers significant improvements in performance, data visualization, and user control.  
 This version introduces new export options, an enhanced dashboard layout, and developer-focused API endpoints for easier data integration.  
-The update focuses on speed, usability, and more flexible reporting for enterprise users.  
+The update focuses on speed, usability, and more flexible reporting for enterprise users 
 
 ---
 
