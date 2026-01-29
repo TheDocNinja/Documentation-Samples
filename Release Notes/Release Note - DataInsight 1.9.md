@@ -26,7 +26,7 @@ It also completes the transition away from the Legacy Report Builder, deprecated
 ### **3. Mobile View Optimization**
 - New responsive layout optimized for mobile dashboard rendering.  
 - Touch-friendly chart gestures like pinch-to-zoom and long-press for data values.  
-- Improved offline functionality with cached dataset support
+- Improved offline functionality with cached dataset support.
 
 ---
 
